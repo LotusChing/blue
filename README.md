@@ -13,4 +13,4 @@
 * SQL发布管理
 
 ## 相关技术栈
-![技术栈](tech-stack.png)
+![技术栈](tech-stack.jpg)
